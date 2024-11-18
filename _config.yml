@@ -27,7 +27,7 @@ tagline: "Created for HIST4840 Public History Course"
 # this description might appear in search result lists, keep around 160 characters max
 description: "Krumple"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: "Rosario Iozzia" "Gabriel Tamburro" "Anthony Del Rosario" 
+author: "Rosario Iozzia", "Gabriel Tamburro", "Anthony Del Rosario" 
 
 ##########
 # COLLECTION SETTINGS
