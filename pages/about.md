@@ -14,7 +14,8 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
+Have you ever played a video game that took place any time in the past? In our experience, playing these games always leave us with a feeling of better knowing some element of the past that the game takes place in. But how much is that feeling justified? Are we learning anything when we play games with names, places, and events based on history?  
+In this episode of the Krumplecast, we explore how much we can learn from historic video games, using Ubisoft's *Assassin's Creed* franchise as the main point of discussion. Through our interviews with a history professor and a former Ubisoft employee, we find the limits these games have as educational tools.
 
 ## Transcript
 
