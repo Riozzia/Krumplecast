@@ -24,8 +24,8 @@ If you have a transcript of your podcast's text, this might be a good place to p
 ## Links
 The following links and resources were referred to in in the podcast audio:
 
-1. This podcast was based on the Assassin's Creed video game franchise. More information can be found on the [Ubisoft Official Website] (https://www.ubisoft.com/en-ca/game/assassins-creed)
-2. For a detailed walkthrough of the Discovery Tour as featured in the game Assassin's Creed Origins, please check out the following [YouTube video link] (https://youtu.be/Dv0eK6PZzoU)
+1. This podcast was based on the Assassin's Creed video game franchise. More information can be found on the [Ubisoft Official Website](https://www.ubisoft.com/en-ca/game/assassins-creed)
+2. For a detailed walkthrough of the Discovery Tour as featured in the game Assassin's Creed Origins, please check out the following [YouTube video link](https://youtu.be/Dv0eK6PZzoU)
 
 ## Acknowledgments
 
