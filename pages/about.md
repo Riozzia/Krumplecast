@@ -16,7 +16,7 @@ credits: false
 
 Rosario Iozzia, Gabriel Tamburro, Anthony Del Rosario
 
-## Guest
+## Guests
 
 Dr. Enrico Moretto, History Professor
 Rob Martin, Rockstar Games Employee, Former Ubisoft Employee
