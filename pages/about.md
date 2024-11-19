@@ -12,6 +12,15 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
+## Authors
+
+Rosario Iozzia, Gabriel Tamburro, Anthony Del Rosario
+
+## Guest
+
+Dr. Enrico Moretto, History Professor
+Rob Martin, Rockstar Games Employee, Former Ubisoft Employee
+
 ## Description
 
 Have you ever played a video game that took place any time in the past? In our experience, playing these games always leave us with a feeling of better knowing some element of the past that the game takes place in. But how much is that feeling justified? Are we learning anything when we play games with names, places, and events based on history?  
