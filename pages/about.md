@@ -35,12 +35,15 @@ The creators would like to acknowledge assistance and support from:
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+Cole, Richard. “Mashing Up History and Heritage in Assassin’s Creed Odyssey.” *Games and Culture* 17, no. 6 (2022): 915–28. [https://doi.org/10.1177/15554120221115403](https://doi.org/10.1177/15554120221115403).
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+Erickson, Brian T. “PLAYING WITH THE PAST: THE IMPORTANCE OF HISTORICAL VIDEO GAMES FOR THE FIELD OF HISTORY”, 2023. [https://uh-ir.tdl.org/server/api/core/bitstreams/9c5344c7-bccb-45e2-bbcf-8af43d2a6610/content](https://uh-ir.tdl.org/server/api/core/bitstreams/9c5344c7-bccb-45e2-bbcf-8af43d2a6610/content).
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+ Poiron, Perrine. “Assassin’s Creed Origins Discovery Tour.” *Near Eastern Archaeology* 84, no. 1 (2021): 79–85. [https://doi.org/10.1086/712580](https://doi.org/10.1086/712580).
 
-Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In *“Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda*, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
+Politopoulos, Aris, Angus A.A Mol, Krijn H.J Boom, and Csilla E Ariese. “History Is Our Playground: Action and Authenticity in Assassin’s Creed: Odyssey.” *Advances in Archaeological Practice* 7, no. 3 (2019): 317–23. [https://doi.org/10.1017/aap.2019.30](https://doi.org/10.1017/aap.2019.30). 
 
+Ubisoft. Assassin’s Creed Odyssey. Ubisoft Montreal, Ubisoft Quebec. Xbox Series S. 2018.
+
+Ubisoft. Assassin’s Creed Valhalla. Ubisoft Montreal. Xbox Series S. 2020.
 
