@@ -113,7 +113,7 @@ In this episode of the Krumplecast, we explore how much we can learn from histor
 
 **Rosario:** The experience of history that video games offer, whether or not it is perfectly accurate, means that countless people in the future, just like me, will be inspired to pursue history further. 
 
-**Gabriel:** Thank you for tuning in to the krumplecast: Assassin's Creed Special Feature! Now enough talking, it's time to play some Assassin's Creed!
+**Gabriel:** Thank you for tuning in to the Krumplecast: Assassin's Creed Special Feature! Now enough talking, it's time to play some Assassin's Creed!
 
 
 ## Links
