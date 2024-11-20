@@ -128,6 +128,8 @@ The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 
+We would also like to thank Enrico Moretto and Rob Martin for letting us interview them.
+
 ## References
 
 Cole, Richard. “Mashing Up History and Heritage in Assassin’s Creed Odyssey.” *Games and Culture* 17, no. 6 (2022): 915–28. [https://doi.org/10.1177/15554120221115403](https://doi.org/10.1177/15554120221115403).
