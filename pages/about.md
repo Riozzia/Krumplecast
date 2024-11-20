@@ -132,13 +132,23 @@ We would also like to thank Enrico Moretto and Rob Martin for letting us intervi
 
 ## References
 
+Arabesques by Vrymaa -- https://freesound.org/s/732051/ -- License: Creative Commons 0
+
 Cole, Richard. “Mashing Up History and Heritage in Assassin’s Creed Odyssey.” *Games and Culture* 17, no. 6 (2022): 915–28. [https://doi.org/10.1177/15554120221115403](https://doi.org/10.1177/15554120221115403).
 
 Erickson, Brian T. “PLAYING WITH THE PAST: THE IMPORTANCE OF HISTORICAL VIDEO GAMES FOR THE FIELD OF HISTORY”, 2023. [https://uh-ir.tdl.org/server/api/core/bitstreams/9c5344c7-bccb-45e2-bbcf-8af43d2a6610/content](https://uh-ir.tdl.org/server/api/core/bitstreams/9c5344c7-bccb-45e2-bbcf-8af43d2a6610/content).
 
- Poiron, Perrine. “Assassin’s Creed Origins Discovery Tour.” *Near Eastern Archaeology* 84, no. 1 (2021): 79–85. [https://doi.org/10.1086/712580](https://doi.org/10.1086/712580).
+Gordon, Alan. "Heritage and Authenticity: The Case of Ontario's Sainte-Marie-among-the-Hurons." The Canadian Historical Review 85, no. 3 (2004): 507-531. https://dx.doi.org/10.1353/can.2004.0107. 
+
+Middle East Ethnic Tribal Percussion (90 bpm) by RastSound -- https://freesound.org/s/322327/ -- License: Creative Commons 0
+
+Middle East Fantasy - The Sand (Short Version) - BreakzStudios, Pixabay.com 
+
+Poiron, Perrine. “Assassin’s Creed Origins Discovery Tour.” *Near Eastern Archaeology* 84, no. 1 (2021): 79–85. [https://doi.org/10.1086/712580](https://doi.org/10.1086/712580).
 
 Politopoulos, Aris, Angus A.A Mol, Krijn H.J Boom, and Csilla E Ariese. “History Is Our Playground: Action and Authenticity in Assassin’s Creed: Odyssey.” *Advances in Archaeological Practice* 7, no. 3 (2019): 317–23. [https://doi.org/10.1017/aap.2019.30](https://doi.org/10.1017/aap.2019.30). 
+
+Telephone ring dry.wav by djfroyd -- https://freesound.org/s/342167/ -- License: Attribution 3.0
 
 Ubisoft. Assassin’s Creed. Ubisoft Montreal. Microsoft Windows. 2008.
 
