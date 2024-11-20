@@ -138,7 +138,17 @@ Erickson, Brian T. “PLAYING WITH THE PAST: THE IMPORTANCE OF HISTORICAL VIDEO 
 
 Politopoulos, Aris, Angus A.A Mol, Krijn H.J Boom, and Csilla E Ariese. “History Is Our Playground: Action and Authenticity in Assassin’s Creed: Odyssey.” *Advances in Archaeological Practice* 7, no. 3 (2019): 317–23. [https://doi.org/10.1017/aap.2019.30](https://doi.org/10.1017/aap.2019.30). 
 
+Ubisoft. Assassin’s Creed. Ubisoft Montreal. Microsoft Windows. 2008.
+
+Ubisoft. Assassin’s Creed IV: Black Flag. Ubisoft Montreal. Xbox 360. 2013.
+
 Ubisoft. Assassin’s Creed Odyssey. Ubisoft Montreal, Ubisoft Quebec. Xbox Series S. 2018.
+
+Ubisoft. Assassin’s Creed Origins. Ubisoft Montreal. Xbox Series S. 2017.
+
+Ubisoft. Assassin’s Creed Revelations. Ubisoft Montreal. Xbox 360. 2011.
+
+Ubisoft. Assassin’s Creed Unity. Ubisoft Montreal. Xbox 360. 2014.
 
 Ubisoft. Assassin’s Creed Valhalla. Ubisoft Montreal. Xbox Series S. 2020.
 
